@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width: 100%;
+    height: 98vh;
+  
+}
+.footer{
+    width: 100%;
+    height: 8vh;
+    padding-top: 15px;
+    background:rgb(82, 151, 73);
+    color: white;
+}
